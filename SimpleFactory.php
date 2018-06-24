@@ -6,6 +6,9 @@
  * User: guoyexuan
  * Date: 2018/6/24
  * Time: 下午10:50
+ *
+ * 静态工厂方法模式:
+ *
  */
 
 interface people
